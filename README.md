@@ -3,7 +3,7 @@
 A React-based application that displays and manages hierarchical data in a table format with value allocation and variance tracking features.
 
 ## Live Demo
-You can view the live application here: [Hierarchical Table Demo](https://YOUR_USERNAME.github.io/hierarchical-table-assessment)
+You can view the live application here: [Hierarchical Table Demo](https://RakeshNaagar.github.io/hierarchical-table-assessment)
 
 ## Features
 
